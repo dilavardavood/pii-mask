@@ -1,3 +1,20 @@
+
+.idea
+
+# Python bytecode
+*.pyc
+
+# C extensions
+*.so
+# Distribution / packaging
+build/
+dist/
+# Python egg files
+*.egg
+*.egg-info/
+# Installer logs
+pip-log.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
