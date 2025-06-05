@@ -1,7 +1,5 @@
-import os
 import requests
 from app.config import Config
-import json
 
 OPENAI_URL = "https://api.openai.com/v1/chat/completions"
 
