@@ -1,0 +1,107 @@
+[
+  {
+    "description": "Handles all matters related to income tax, financial regulations, public sector banking, pensions, and fiscal management in India.",
+    "ministry": "Ministry of Finance",
+    "ministry_key": "ministry_of_finance"
+  },
+  {
+    "description": "Responsible for agricultural development, farmer welfare schemes like PM-KISAN, crop insurance, and rural agri-infrastructure.",
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "ministry_key": "ministry_of_agriculture_and_farmers_welfare"
+  },
+  {
+    "description": "Oversees school and higher education, scholarships, grants, academic policies, and institutions across India.",
+    "ministry": "Ministry of Education",
+    "ministry_key": "ministry_of_education"
+  },
+  {
+    "description": "Manages public health systems, national health schemes, medical infrastructure, vaccine distribution, and health center administration.",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_key": "ministry_of_health_and_family_welfare"
+  },
+  {
+    "description": "Handles employee welfare, EPF claims, labor laws, employment benefits, and social security for workers.",
+    "ministry": "Ministry of Labour & Employment",
+    "ministry_key": "ministry_of_labour_and_employment"
+  },
+  {
+    "description": "Responsible for pensions, administrative reforms, and resolving public grievances from central government employees and pensioners.",
+    "ministry": "Ministry of Personnel, Public Grievances and Pensions",
+    "ministry_key": "ministry_of_personnel,_public_grievances_and_pensions"
+  },
+  {
+    "description": "Manages postal services, telecommunications, internet access, and digital communication infrastructure.",
+    "ministry": "Ministry of Communications",
+    "ministry_key": "ministry_of_communications"
+  },
+  {
+    "description": "In charge of national highways, road infrastructure projects, and surface transport development.",
+    "ministry": "Ministry of Road Transport and Highways",
+    "ministry_key": "ministry_of_road_transport_and_highways"
+  },
+  {
+    "description": "Handles passports, visa issues, and international affairs for Indian citizens and foreign relations.",
+    "ministry": "Ministry of External Affairs",
+    "ministry_key": "ministry_of_external_affairs"
+  },
+  {
+    "description": "Responsible for railway operations, ticketing, rail safety, and passenger services across India.",
+    "ministry": "Ministry of Railways",
+    "ministry_key": "ministry_of_railways"
+  },
+  {
+    "description": "Oversees electricity supply, power distribution, renewable energy integration, and electrification policies.",
+    "ministry": "Ministry of Power",
+    "ministry_key": "ministry_of_power"
+  },
+  {
+    "description": "Manages water supply, drinking water quality, irrigation systems, and river rejuvenation programs.",
+    "ministry": "Ministry of Jal Shakti",
+    "ministry_key": "ministry_of_jal_shakti"
+  },
+  {
+    "description": "Responsible for internal security, police operations, law enforcement, and civil defense in India.",
+    "ministry": "Ministry of Home Affairs",
+    "ministry_key": "ministry_of_home_affairs"
+  },
+  {
+    "description": "Focuses on welfare programs for senior citizens, persons with disabilities, and marginalized communities.",
+    "ministry": "Ministry of Social Justice and Empowerment",
+    "ministry_key": "ministry_of_social_justice_and_empowerment"
+  },
+  {
+    "description": "Handles GST administration, indirect taxation systems, and business tax grievances.",
+    "ministry": "Ministry of Finance",
+    "ministry_key": "ministry_of_finance"
+  },
+  {
+    "description": "Responsible for the functioning of government hospitals, public health infrastructure, and medical services.",
+    "ministry": "Ministry of Health & Family Welfare",
+    "ministry_key": "ministry_of_health_and_family_welfare"
+  },
+  {
+    "description": "Administers education finance schemes, central scholarships, and school/college-level grants.",
+    "ministry": "Ministry of Education",
+    "ministry_key": "ministry_of_education"
+  },
+  {
+    "description": "Oversees public sector banking, financial digital services, and regulation of financial institutions.",
+    "ministry": "Ministry of Finance",
+    "ministry_key": "ministry_of_finance"
+  },
+  {
+    "description": "Manages rural infrastructure development, village road projects, housing, and employment programs.",
+    "ministry": "Ministry of Rural Development",
+    "ministry_key": "ministry_of_rural_development"
+  },
+  {
+    "description": "Oversees food distribution, ration shops, consumer protection, and public food security programs.",
+    "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+    "ministry_key": "ministry_of_consumer_affairs,_food_and_public_distribution"
+  },
+  {
+    "description": "Monitors air, water, and soil pollution, enforces environmental regulations, and promotes climate action policies.",
+    "ministry": "Ministry of Environment, Forest and Climate Change",
+    "ministry_key": "ministry_of_environment,_forest_and_climate_change"
+  }
+]

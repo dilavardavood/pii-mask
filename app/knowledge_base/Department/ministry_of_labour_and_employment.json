@@ -1,0 +1,48 @@
+{
+  "Ministry of Labour & Employment": {
+    "Chief Labour Commissioner (Central)": {
+      "Labour Law Enforcement": {
+        "Minimum Wage": [
+          "Non-payment of minimum wages",
+          "Delayed wage payments"
+        ],
+        "Working Conditions": [
+          "Unsafe work environment",
+          "Excessive working hours"
+        ]
+      },
+      "Industrial Disputes": {
+        "Strikes & Lockouts": [
+          "Illegal strikes",
+          "Unjustified lockouts"
+        ],
+        "Grievance Redressal": [
+          "Delay in dispute resolution",
+          "Bias in adjudication"
+        ]
+      }
+    },
+    "Employees' Provident Fund Organisation (EPFO)": {
+      "Provident Fund": {
+        "Account Issues": [
+          "Incorrect account details",
+          "Multiple accounts"
+        ],
+        "Withdrawal Problems": [
+          "Delay in claim settlement",
+          "Rejection without valid reason"
+        ]
+      },
+      "Pension Scheme": {
+        "Eligibility Issues": [
+          "Incorrect pension calculations",
+          "Denial of pension benefits"
+        ],
+        "Disbursement Delays": [
+          "Late pension payments",
+          "Non-receipt of pension"
+        ]
+      }
+    }
+  }
+}

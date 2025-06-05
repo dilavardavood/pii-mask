@@ -1,0 +1,38 @@
+{
+  "Ministry of Agriculture & Farmers Welfare": {
+    "Department of Agriculture, Cooperation & Farmers Welfare": {
+      "Subsidy & Scheme Issues": {
+        "PM-KISAN": [
+          "Non-receipt of installment",
+          "Incorrect beneficiary details"
+        ],
+        "Crop Insurance": [
+          "Delay in claim settlement",
+          "Claim rejection without reason"
+        ]
+      },
+      "Agricultural Inputs": {
+        "Seeds": [
+          "Poor quality seeds supplied",
+          "Delay in seed distribution"
+        ],
+        "Fertilizers": [
+          "Shortage in supply",
+          "Overpricing issues"
+        ]
+      }
+    },
+    "Department of Agricultural Research & Education": {
+      "Research & Extension Services": {
+        "Krishi Vigyan Kendras": [
+          "Lack of training programs",
+          "Inadequate staff"
+        ],
+        "Agricultural Universities": [
+          "Admission issues",
+          "Scholarship delays"
+        ]
+      }
+    }
+  }
+}
